@@ -1,5 +1,7 @@
-# 💫 Santiago Arocha:
+# 💫 Santiago Arocha
+
 About me:
+
 🔭I am currently working on Web Development, as a Full Stack Developer.<br>👨‍🎓I am a Technician in Software and Nets (focused on Web Development).<br>📖I am at Intermediate English Level (FCE, B2 First)<br>🤝I am looking to colaborate in Sofware Development Teams and getting help too.<br>🌱I am currently learning more and more, to clean and refactor my code, for the best way.<br>
 
 
